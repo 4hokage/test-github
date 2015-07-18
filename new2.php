@@ -1,3 +1,3 @@
 <?php
-  echo "I'am a new2.php";
+  echo "I'am a new2.php edited";
 ?>
