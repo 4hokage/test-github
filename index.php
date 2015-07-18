@@ -1,3 +1,8 @@
 <?php
 
-echo "Ahmad Rizal Afani :)";
+$data = [
+  'name'  => 'Ahmad Rizal Afani',
+  'email' => 'ahmadrizalafani@gmail.com'
+];
+
+print_r($data);
