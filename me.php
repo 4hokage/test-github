@@ -1,3 +1,3 @@
 <?php
-  echo "Haaaayyyyyy";
+  echo "Haaaayyyyyy, this file was edited by yondaime hokage :)";
 ?>
